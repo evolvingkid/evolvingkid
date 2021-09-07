@@ -1,10 +1,10 @@
 ### Hi there, I'm Fayez -aka evolvinkid 👋
 	
-- 🔭 I’m currently working on ... Freelance
-- 🌱 I’m currently learning ... BCA at Mes College 
-- 👯 I’m looking to collaborate on ... Flutter and Node JS Developer
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ... Flutter
+- 🔭 I’m currently working on ... associate software engineer
+- 🌱 I’m currently learning ... IOS 
+- 👯 I’m looking to collaborate on ... Flutter, Node JS Developer, React and React Native
+- 🤔 I’m looking for help with ... good books to read about CS
+- 💬 Ask me about ... Flutter, node, react and react native
 -->
 
  ## Connect me with
