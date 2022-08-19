@@ -1,6 +1,6 @@
 ### Hi there, I'm Fayez -aka evolvinkid 👋
 	
-- 🔭 I’m currently working on ... associate software engineer
+- 🔭 I’m currently working on totroise as software engineer
 - 🌱 I’m currently learning ... IOS 
 - 👯 I’m looking to collaborate on ... Flutter, Node JS Developer, React and React Native
 - 🤔 I’m looking for help with ... good books to read about CS
