@@ -16,11 +16,6 @@
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/evolvingkid/evolvingkid/blob/master/hiclipart.com.png" />][evolvingkid]
 
 
-<br/>
-<br/>
-<br/>
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=evolvingkid&show_icons=true&hide_border=true&theme=vue" />
-
 
 
 [website]: https://www.instagram.com/evolving_kid/
